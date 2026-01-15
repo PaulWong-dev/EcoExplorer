@@ -1,2 +1,20 @@
-# EcoExplorer
-This is a project An educational platform designed to foster environmental awareness in children through interactive entertainment. By combining virtual nature experiences with critical thinking challenges, helping young users develop sustainable habits and problem-solving skills for a greener future
+# 🌍 EcoExplorer - Environmental Education App
+
+![Language](https://img.shields.io/badge/Language-Visual_Basic_.NET-purple)
+![Database](https://img.shields.io/badge/Database-MS_Access-red)
+
+## 📌 Project Overview
+**EcoExplorer** is an interactive educational application designed for children aged 6 to 12. Its mission is to promote environmental awareness and sustainability through engaging storytelling and gamified learning.
+
+The app addresses the lack of environmental knowledge among young children by providing a fun platform to learn about recycling, ecosystems, climate change, and conservation. It features interactive comics, quizzes, and a reward system to keep users engaged.
+
+---
+
+## 📂 Project Structure
+
+```text
+├── EcoExplorer/             # Main Application Source Code (VB.NET)
+├── ECOEXPLORER.accdb        # Microsoft Access Database file
+├── Documentation/           # Project Report & Flowcharts
+├── Assets/                  # Images, Icons, and Comic Assets
+└── README.md                # Project Documentation
